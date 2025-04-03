@@ -1,14 +1,5 @@
 # AI_DL-project
 
-Steps-1 install git 
-
-steps-2 create project resporitory
-
-Step-3 create clone
-git clone :- https://github.com/Surajjj0030/AI_DL-project.git
-
- Step-4 requirements
-pip install -r requirements
 
 ## kidney disease Classification MLFlow DVC
 
@@ -25,3 +16,13 @@ pip install -r requirements
 9. Update the dvc.yaml
 10. app.py
 
+
+## Steps-1 install git 
+
+## steps-2 create project resporitory
+
+## Step-3 create clone
+git clone :- https://github.com/Surajjj0030/AI_DL-project.git
+
+## Step-4 requirements
+pip install -r requirements
