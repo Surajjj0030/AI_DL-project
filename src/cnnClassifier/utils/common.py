@@ -1,11 +1,11 @@
 import os
-from  box.exeeptions import BoxvalueError
+from box.exceptions import BoxValueError
 import yaml
 import joblib
 import json
-from cnnClassifier import logger
+from src.cnnClassifier import logger
 from ensure import ensure_annotations
-from box import Configbox
+from box import ConfigBox
 from pathlib import Path
 from typing import Any
 import base64
