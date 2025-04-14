@@ -2,8 +2,6 @@ from src.cnnClassifier.config.configuration import ConfigurationManager
 from src.cnnClassifier.components.model_evalution import Evaluation
 from src.cnnClassifier import logger
 
-
-
 STAGE_NAME = "Evaluation stage"
 
 
