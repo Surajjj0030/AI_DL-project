@@ -9,6 +9,7 @@ import os
 import mlflow
 import tensorflow as tf
 import numpy
+import pandas
 
 
 STAGE_NAME = "Evaluation stage"
