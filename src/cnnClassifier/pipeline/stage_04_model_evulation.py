@@ -7,6 +7,8 @@ from src.cnnClassifier.components.model_evalution import Evaluation
 from src.cnnClassifier import logger
 import os
 import mlflow
+import tensorflow as tf
+import numpy
 
 
 STAGE_NAME = "Evaluation stage"
